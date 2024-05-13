@@ -1,0 +1,5 @@
+﻿ステージ名,使用するステージ(MV1)のパス,お宝のX座標,お宝のZ座標,お宝の向き,クリアX座標,クリアX座標,使用する当たり判定データ
+Stage1,data/model/Stage1.mv1,0,-1425,180,6,0,data/csv/stage1.csv
+Stage2,data/model/Stage2.mv1,-900,-900,270,-900,-900,data/csv/stage2.csv
+Stage3,,-900,-825,0,-900,-900,data/csv/stage3.csv
+Stage4,,-900,-825,0,-900,0,data/csv/stage4.csv

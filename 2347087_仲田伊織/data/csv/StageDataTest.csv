@@ -1,8 +1,0 @@
-ステージ名,使用するマップデータ,初期X座標(マップ基準),初期Z座標(マップ基準),クリアX座標(マップ基準),クリアZ座標(マップ基準),チェストの向き
-Stage1,data/csv/stage1 - コピー.csv,6,9,6,0,180
-Stage2,data/csv/stage2 - コピー.csv,6,9,12,3,270
-Stage3,data/csv/stage3 - コピー.csv,6,9,12,3,0
-Stage4,data/csv/stage4 - コピー.csv,6,4,12,4,270
-Stage5,data/csv/stage4 - コピー.csv,6,4,0,4,90
-Stage6,data/csv/stage4 - コピー.csv,6,4,6,0,180
-Stage7,data/csv/stage4 - コピー.csv,6,4,6,9,0
